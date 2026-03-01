@@ -1,15 +1,15 @@
-# Estudos de Python
+# Python Studies
 
-Este repositório contém exercícios e pequenos projetos criados durante meu aprendizado de Python.
+This repository contains exercises and small projects created during my Python learning process.
 
-## Tópicos abordados até o momento:
-- Variáveis ​​e tipos de dados
-- Operações matemáticas básicas
-- Cálculos de porcentagem
-- Instruções condicionais (if/else)
-- Entrada de dados do usuário
-- Calculadoras simples
-- Conversão de temperatura
-- Conversão de moeda
+## Topics covered so far:
+- Variables and data types
+- Basic math operations
+- Percentage calculations
+- Conditional statements (if/else)
+- User input
+- Simple calculators
+- Temperature conversion
+- Currency conversion
 
-Mais projetos em breve.
+More projects coming soon.
