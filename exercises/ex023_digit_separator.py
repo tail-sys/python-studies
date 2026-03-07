@@ -27,4 +27,5 @@ print ('Analisando o número {}'.format(num4))
 print ('Unidade: {}'.format(u))
 print ('Dezena: {}'.format(d))
 print ('Centena: {}'.format(c))
+
 print ('Milhar: {}'.format(m))
